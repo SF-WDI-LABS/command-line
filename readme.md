@@ -41,6 +41,8 @@ Many of the tasks developers perform are faster when done from the command line,
 
 ### What is the Command Line Interface?
 
+<img src="http://media.idownloadblog.com/wp-content/uploads/2016/02/terminal-app-icon-OS-X.png" width="150px">
+
 - A CLI is a program to interact with a computer through text.  Mac's command line "shell" program is called Terminal. It lets users interact with the operating system.  It's a "Read, Evaluate, Print, Loop"-style program.
 
   **You do:** Try using the keyboard shortcut `Command Space` to search for "Terminal".  Open Terminal. 
@@ -163,6 +165,8 @@ Moving as quickly as possible allows you to do more work! You want to be efficie
 
 #### Tab Completion
 
+<img src="https://www.accordancebible.com/files/images/147235-custom.jpg" width="250px"/>
+
 When you're typing a file or directory name, you can hit Tab as soon as you've given the computer enough information to know which file you need. Try it!
 
   ```bash
@@ -173,6 +177,8 @@ When you're typing a file or directory name, you can hit Tab as soon as you've g
   $ cd De   # now Tab will fill in Desktop
   ```
 #### Up and down arrows
+
+![](https://d30y9cdsu7xlg0.cloudfront.net/png/783-200.png)
 
 When you're re-entering a recent command in terminal, you can press the up arrow to scroll through your history of completed commands. You don't need to type out the whole command! You can pull up a complicated command that you've already executed (or attempted) by pressing the up arrow and edit it so that it's correct. The up and down arrows let you move in order through your history of commands for the current `bash` session.
 
@@ -203,6 +209,11 @@ New commands and shortcuts will take a while to get used to. Practice with them 
 
 If you're already comfortable with the Terminal commands and shortcuts listed above, choose three from the resources below to start focusing on. Write these down on a sticky note, and stick it inside your laptop or somewhere that will help you remember to use them.
 
+**Challenge**
+
+<img src="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/osx/osx-el-capitan-finder-icon.png" width="150px">
+
+Don't use finder for the next entire week! This will force you to get used to creating and moving files around using terminal.
 
 ### Additional Resources
 
