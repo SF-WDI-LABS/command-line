@@ -156,7 +156,11 @@ The same flags won't work with every command, but knowing a few will help you de
 **`..` (parent directory)**
 
   `..` is the directory containing whichever directory you're in, known as the "parent" directory. It's often used when navigating files: `cd ../..` would move you two levels "up" the file tree.  
-  
+
+## Work faster!
+
+Moving as quickly as possible allows you to do more work! You want to be efficient with your keystrokes and execute as many commands as you can as accurately as you can. Here are some tips to speed up your workflow:
+
 #### Tab Completion
 
 When you're typing a file or directory name, you can hit Tab as soon as you've given the computer enough information to know which file you need. Try it!
@@ -168,9 +172,12 @@ When you're typing a file or directory name, you can hit Tab as soon as you've g
   $ cd D    # if you hit Tab after D, you may hear a beep - the computer can't tell which directory you want yet.
   $ cd De   # now Tab will fill in Desktop
   ```
-  
-  
-#### Commands for permissions:
+#### Up and down arrows
+
+When you're re-entering a recent command in terminal, you can press the up arrow to scroll through your history of completed commands. You don't need to type out the whole command! You can pull up a complicated command that you've already executed (or attempted) by pressing the up arrow and edit it so that it's correct. The up and down arrows let you move in order through your history of commands for the current `bash` session.
+
+
+### Commands for permissions:
 
 1. `sudo`: run a command as another user, usually the "super user" with significantly more permissions. **Make sure you understand the effect a `sudo` command will have before you run it and that you trust its source.** See the [man page](https://www.freebsd.org/cgi/man.cgi?query=sudo&apropos=0&sektion=0&manpath=FreeBSD+10.3-RELEASE+and+Ports&arch=default&format=html) and/or [wikipedia](https://en.wikipedia.org/wiki/Sudo).
 
