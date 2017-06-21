@@ -64,7 +64,7 @@ Many of the tasks developers perform are faster when done from the command line,
 
 > Note: `git` commands are not part of the bash language. They use bash, and they're added separately when you install git.
 
-### Bash Commands
+### Bash Commands and Flags
 
 Commands on the command line work a lot like functions in JavaScript. The base command is often followed by some number of arguments, and/or by some options or flags.
 
@@ -87,7 +87,7 @@ There's also a `-d` flag, which means only directories will be shown in the file
 > Note: While the main command must always come first, you can often put flags before or after the other arguments. Pay attention to the documentation for a command to see how it can be used. 
 
 
-#### Getting more information about a command:
+#### Getting More Information About a Command
 
 1. `man`
 
