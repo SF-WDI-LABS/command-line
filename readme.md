@@ -211,7 +211,7 @@ If you're already comfortable with the Terminal commands and shortcuts listed ab
 
 **Challenge**
 
-<img src="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/osx/osx-el-capitan-finder-icon.png" width="150px">
+<img src="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/osx/osx-el-capitan-finder-icon.png" width="100px"/> <img src="http://www.clker.com/cliparts/n/g/o/m/i/x/no-circle-symbol.svg" width="150px">
 
 Don't use finder for the next entire week! This will force you to get used to creating and moving files around using terminal.
 
