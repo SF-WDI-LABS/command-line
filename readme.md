@@ -50,6 +50,12 @@ Many of the tasks developers perform are faster when done from the command line,
 - User can input commands in a specific "shell" scripting language. The default command line language for macOS and many Linux distributions is called `bash`. You may also eventually use variants like `zsh`, `ash`, `ssh`, and their predecessor `sh`.
 
   **You do:** In Terminal, use the bash command `pwd`.  What does it tell you?
+  
+
+
+#### Parts of the command prompt
+
+![image](https://user-images.githubusercontent.com/6520345/27409452-6adfda82-5696-11e7-8482-47ecfe712fa6.png)
 
 **Check for Understanding**
 
